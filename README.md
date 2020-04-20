@@ -516,11 +516,6 @@ If you do not get an e-mail in 15 minutes after your submission, check the follo
 
 ![Sympa wings!](./pics/sympa_siivet.jpg)
 
-## Willingness to demo
-If you have done some extra assignments after the initial submission and you would be willing to demo your version of the Population graphs app, please fill in your info here! We will select a few participants for demoing from those who have indicated their willingness. The online demo & interview session right after the course on 21.4.2020 at 17.00-17.45 (Finnish time). Everyone is welcome to join the session!
-
-Fill in the [willingness to demo form](https://forms.office.com/Pages/ResponsePage.aspx?id=qBDdu9lHMkWtPpjJdV-yPexVQAMN-VxKqazZ40sdgU9UNDYxSjhUMTlQVFAwMUw5NEcyV0c0RklPUiQlQCN0PWcu) at the latest at 19.4.2020 23.59.
-
 # Extra assignments
 If you are still eager to learn more and improve you app, here are some assignments to improve the app. However, before continuing, submit your files in their current state as you will be altering them during the extra assignments and they may no longer pass the automated checks after the alterations. 
 
@@ -680,6 +675,7 @@ So if you have ideas on improving the material (fixing mistakes, explaining some
 Thanks to 
 - *[#mimmitkoodaa](https://mimmitkoodaa.ohjelmistoebusiness.fi/)* for amazing work in diversifying the coder tribe in Finland
 - *Sympa* for participating in #mimmitkoodaa and making possible this course
+- *#mimmitkoodaa course participants and beta group members* for feedback and ideas on how to improve the material
 - *World Bank* for the data
 - *Mozilla* for the tutorials
 - *University of Helsinki* and especially *Matti Luukkainen* for excellent examples on how to build and implement MOOCs. This MOOC follows the same spirit and borrows happily the ideology and pedagogy.
