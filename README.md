@@ -575,7 +575,7 @@ function getAreaName(data, areaCode) {
 ```
 
 ## Large assignments
-- Implement way for the user to **select the country using a drop-down menu** instead of typing in a country code. You can fetch the list of countries from a World Bank API at address [https://api.worldbank.org/v2/country?format=json&per_page=400](https://api.worldbank.org/v2/country?format=json&per_page=400){:target="_blank"}. For comparison, look at the branch [dropdowncountryselection](https://github.com/mikkokotola/populationgraphs/tree/dropdowncountryselection){:target="_blank"} of the repository.
+- Implement way for the user to **select the country using a drop-down menu** instead of typing in a country code. You can fetch the list of countries from a World Bank API at address [https://api.worldbank.org/v2/country?format=json&per_page=400](https://api.worldbank.org/v2/country?format=json&per_page=400){:target="_blank"}. Try using a [`<select>` HTML element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select){:target="_blank"} for selecting the countries. For comparison, you can look at the branch [dropdowncountryselection](https://github.com/mikkokotola/populationgraphs/tree/dropdowncountryselection){:target="_blank"} of the repository.
 - Implement functionality to select the age segment to display (see the age segments under Small assignments).
 
 ## Feedback for the extras
