@@ -508,6 +508,12 @@ Fill in the [submit your files form](https://forms.office.com/Pages/ResponsePage
 
 After submitting, you will get an e-mail. If your submission passes the automated tests, your course certificate will be attached. If your submission does not pass all tests yet, you will get feedback on which tests are not passing, so you can fix your files and try submitting again.
 
+If you do not get an e-mail in 15 minutes after your submission, check the following things and try to resubmit:
+- Check your e-mail's spam box. The feedback mail might have ended up there.
+- Did you name your files exactly as instructed (index.html, styles.css and myChart.js)?
+- Did you enter your first name and last name in the exact same format when asked twice during the submission? Also check that you had no extra spaces after the names.
+- Did you spell your e-mail address correctly?
+
 ![Sympa wings!](./pics/sympa_siivet.jpg)
 
 ## Willingness to demo
