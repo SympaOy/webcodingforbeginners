@@ -6,7 +6,7 @@
 * Table of contents will be inserted here when this markdown is built by Jekyll
 {:toc}
 
-Welcome to the amazing world of web coding! On this **#mimmitkoodaa MOOC by Sympa** we will build a simple web app that can visualize population graphs for different countries. Let's look over some general information about the course first.
+Welcome to the amazing world of web coding! On this **MOOC by Sympa** we will build a simple web app that can visualize population graphs for different countries. This course was created for the **[#mimmitkoodaa](https://mimmitkoodaa.ohjelmistoebusiness.fi/){:target="_blank"} program** in Finland, but is now open for all to use for learning. Let's look over some general information about the course first.
 
 # Technical stuff about the course
 ## Time requirement for the course
@@ -504,9 +504,11 @@ Give feedback now about the main part (up to part wrap-up) using the [feedback f
 ## Submit your files
 Make sure you have the three files (index.html, styles.css and myChart.js) named exactly as instructed.
 
-Fill in the [submit your files form](https://forms.office.com/Pages/ResponsePage.aspx?id=qBDdu9lHMkWtPpjJdV-yPYuD9NDNst9Fg6lleCfSi2hUOVU3QzhIU0c0UzlJTTg3Qk5GTk1GSEhDNi4u){:target="_blank"} to submit your files. After filling in the form, you will be displayed a link for submitting the files. 
+To submit your files, fill in the one of the following forms:
+- [#mimmitkoodaa submission](https://forms.office.com/Pages/ResponsePage.aspx?id=qBDdu9lHMkWtPpjJdV-yPYuD9NDNst9Fg6lleCfSi2hUOVU3QzhIU0c0UzlJTTg3Qk5GTk1GSEhDNi4u){:target="_blank"} (only for people registered through the #mimmitkoodaa program)
+- [general submission](https://forms.office.com/Pages/ResponsePage.aspx?id=qBDdu9lHMkWtPpjJdV-yPYuD9NDNst9Fg6lleCfSi2hUOUJJOTBVVVFIWkVJMjEwQlRaQUZBNFNJTC4u){:target="_blank"} (everyone else)
 
-After submitting, you will get an e-mail. If your submission passes the automated tests, your course certificate will be attached. If your submission does not pass all tests yet, you will get feedback on which tests are not passing, so you can fix your files and try submitting again.
+After filling in the form, you will be displayed a link for submitting the files. After submitting, you will get an e-mail. If your submission passes the automated tests, your course certificate will be attached. If your submission does not pass all tests yet, you will get feedback on which tests are not passing, so you can fix your files and try submitting again.
 
 If you do not get an e-mail in 15 minutes after your submission, check the following things and try to resubmit:
 - Check your e-mail's spam box. The feedback mail might have ended up there.
@@ -515,11 +517,6 @@ If you do not get an e-mail in 15 minutes after your submission, check the follo
 - Did you spell your e-mail address correctly?
 
 ![Sympa wings!](./pics/sympa_siivet.jpg)
-
-## Willingness to demo
-If you have done some extra assignments after the initial submission and you would be willing to demo your version of the Population graphs app, please fill in your info here! We will select a few participants for demoing from those who have indicated their willingness. The online demo & interview session right after the course on 21.4.2020 at 17.00-17.45 (Finnish time). Everyone is welcome to join the session!
-
-Fill in the [willingness to demo form](https://forms.office.com/Pages/ResponsePage.aspx?id=qBDdu9lHMkWtPpjJdV-yPexVQAMN-VxKqazZ40sdgU9UNDYxSjhUMTlQVFAwMUw5NEcyV0c0RklPUiQlQCN0PWcu) at the latest at 19.4.2020 23.59.
 
 # Extra assignments
 If you are still eager to learn more and improve you app, here are some assignments to improve the app. However, before continuing, submit your files in their current state as you will be altering them during the extra assignments and they may no longer pass the automated checks after the alterations. 
@@ -678,8 +675,9 @@ So if you have ideas on improving the material (fixing mistakes, explaining some
 
 # Thanks
 Thanks to 
-- *[#mimmitkoodaa](https://mimmitkoodaa.ohjelmistoebusiness.fi/)* for amazing work in diversifying the coder tribe in Finland
+- *[#mimmitkoodaa](https://mimmitkoodaa.ohjelmistoebusiness.fi/){:target="_blank"}* for amazing work in diversifying the coder tribe in Finland
 - *Sympa* for participating in #mimmitkoodaa and making possible this course
+- *#mimmitkoodaa course participants and beta group members* for feedback and ideas on how to improve the material
 - *World Bank* for the data
 - *Mozilla* for the tutorials
 - *University of Helsinki* and especially *Matti Luukkainen* for excellent examples on how to build and implement MOOCs. This MOOC follows the same spirit and borrows happily the ideology and pedagogy.
