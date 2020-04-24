@@ -10,7 +10,7 @@ Welcome to the amazing world of web coding! On this **MOOC by Sympa** we will bu
 
 # Technical stuff about the course
 ## Time requirement for the course
-Our estimate is that you should be to complete the pre-work part in 3-8 hours and to build the population basic graphs app in about 3-8 hours. After that there are several options for extra assigments to improve your own version of the app. This assumes no previous programming experience, but does assume that you are comfortable using a computer and a browser.
+Our estimate is that you should be to complete the pre-work part in 3-8 hours and to build the basic population graphs app in about 3-8 hours. After that there are several options for extra assigments to improve your own version of the app. This assumes no previous programming experience, but does assume that you are comfortable using a computer and a browser.
 
 ## Completing the course
 If you wish to complete the course, follow the instructions for submitting your files at the end of the material. All finishers will get a course certificate. If you want to do the course just for learning, you can follow the material, do the quizzes and give feedback but skip submitting your files.
