@@ -344,7 +344,7 @@ function getCountryName(data) {
 
 These helper functions will extract the actual population counts, the year labels and the country name from the data array that we got from the World Bank (and that we printed in the console). In essence, each method takes the whole data array, selects only the main time series list (not the metadata) for processing, sorts it by year and selects only the wanted piece of data from each year. Remember how it had a lot of extra data that we won't need for the population graph. These methods will provide us with just the data we need. They are not being called yet, so they won't do anything yet. 
 
-*If you are interested in studying how the helper functions work internally, you can read a more detailed technical description in the section <a href="#how-do-the-helper-functions-actually-work">How do the helper functions actually work?</a> (but this is a bit advanced and definitely not required, so if you're a beginner, maybe continue reading this part for now and maybe return to the detailed explanation later once you are doing extra assigments).*
+*If you are interested in studying how the helper functions work internally, you can read a more detailed technical description in the section <a href="#how-do-the-helper-functions-actually-work">How do the helper functions actually work?</a> (but this is a bit advanced and definitely not required, so if you're a beginner, continue reading this part for now and maybe return to the detailed explanation later once you are doing extra assigments).*
 
 Now let's proceed to see how our new tool works. Let's add this function that will render the actual population graph using the population data, the year labels and the country name:
 ```
