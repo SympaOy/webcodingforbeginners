@@ -13,15 +13,13 @@ Welcome to the amazing world of web coding! On this **MOOC by Sympa** we will bu
 Our estimate is that you should be to complete the pre-work part in 3-8 hours and to build the basic population graphs app in about 3-8 hours. After that there are several options for extra assigments to improve your own version of the app. This assumes no previous programming experience, but does assume that you are comfortable using a computer and a browser.
 
 ## Completing the course
-If you wish to complete the course, follow the instructions for submitting your files at the end of the material. All finishers will get a course certificate. If you want to do the course just for learning, you can follow the material, do the quizzes and give feedback but skip submitting your files.
+Submitting files ended 30.9.2020. The material is still open to use, but submitting is no longer possible.
 
-The quizzes in the material are meant to support your learning. The results are collected only anonymously. Completing the quizzes is not required for completing the course.
+The quizzes in the material are meant to support your learning. The results are collected only anonymously.
 
 ## Data privacy
 
-The quiz answers and feedback for the course are collected anonymously. Filling in quizzes and giving feedback is optional. The quizzes and the feedback are implemented using Microsoft Forms.
-
-The course submission form and willingness to demo form include personal data (name, e-mail). [Privacy policy](./privacy_policy.md) is available.
+The quiz answers and feedback for the course are collected anonymously. Filling in quizzes and giving feedback is optional. The quizzes and the feedback are implemented using Microsoft Forms. [Privacy policy](./privacy_policy.md) is available.
 
 ## Prerequisites
 You will need to have Visual Studio Code installed on your computer. If you have not installed it, please do so now at [https://code.visualstudio.com/](https://code.visualstudio.com/){:target="_blank"}. Select the *Download for Windows* if you have a Windows computer. Or your own operating system. Install it with default setup. 
@@ -495,35 +493,18 @@ What have we done? Short answer: we've built a working **front-end** application
 
 During this course, you have learned to work with the essential technologies of current web applications: HTML, CSS and Javascript. You have got your hands on some real World Bank data and used some tools offered to us by the web community: the visualization library Chart.js and the Bootstrap stylesheet. You have built a working web app. How was this possible? One notable factor making this possible is **openness**. We used open data from World Bank, open source code (the app itself and the mentioned tools) and worked using the open internet. Another view into the app is that we composed it by using several quite high-level pieces. This is in fact how many of the applications and services are born: the starting point is a customer need or an idea for a new service, and the application is built to realize that idea by using many different data sources and ready software components. There is not necessarily that much own code, and the code that is there is mainly tying together the different components to produce something new, something unique.
 
-That's it for the basic part of this course! Hopefully you have enjoyed the journey and have some new skills and insights to take home! If you still want to continue learning and improving your Population Graphs app, there are several options for extra assignments below. But at this point, please submit your code files and take a moment to give feedback about the course.
+That's it for the basic part of this course! Hopefully you have enjoyed the journey and have some new skills and insights to take home! If you still want to continue learning and improving your Population Graphs app, there are several options for extra assignments below. But at this point, please take a moment to give feedback about the basic part of the course.
 
-# Feedback and submission
+# Feedback
 ## Feedback
 We would love to get some feedback from you. Feedback helps us recognize what is working and which parts we should still improve for the future.
 
 Give feedback now about the main part (up to part wrap-up) using the [feedback form](https://forms.office.com/Pages/ResponsePage.aspx?id=qBDdu9lHMkWtPpjJdV-yPexVQAMN-VxKqazZ40sdgU9UMU40VlcxNjNYOFVMUkxVVzlMWUtQQ0NQVSQlQCN0PWcu){:target="_blank"}. It will take you about 3-5 minutes. 
 
-## Submit your files
-Make sure you have the three files (index.html, styles.css and myChart.js) named exactly as instructed.
-
-To submit your files, fill in the one of the following forms:
-- [#mimmitkoodaa submission](https://forms.office.com/Pages/ResponsePage.aspx?id=qBDdu9lHMkWtPpjJdV-yPYuD9NDNst9Fg6lleCfSi2hUOVU3QzhIU0c0UzlJTTg3Qk5GTk1GSEhDNi4u){:target="_blank"} (only for people registered through the #mimmitkoodaa program)
-- [general submission](https://forms.office.com/Pages/ResponsePage.aspx?id=qBDdu9lHMkWtPpjJdV-yPYuD9NDNst9Fg6lleCfSi2hUOUJJOTBVVVFIWkVJMjEwQlRaQUZBNFNJTC4u){:target="_blank"} (everyone else)
-
-After filling in the form, you will be displayed a link for submitting the files. After submitting, you will get an e-mail. If your submission passes the automated tests, your course certificate will be attached. If your submission does not pass all tests yet, you will get feedback on which tests are not passing, so you can fix your files and try submitting again.
-
-If you do not get an e-mail in 15 minutes after your submission, check the following things and try to resubmit:
-- Check your e-mail's spam box. The feedback mail might have ended up there.
-- Did you name your files exactly as instructed (index.html, styles.css and myChart.js)?
-- Did you enter your first name and last name in the exact same format when asked twice during the submission? Also check that you had no extra spaces after the names.
-- Did you spell your e-mail address correctly?
-
 ![Sympa wings!](./pics/sympa_siivet.jpg)
 
 # Extra assignments
-If you are still eager to learn more and improve you app, here are some assignments to improve the app. However, before continuing, submit your files in their current state as you will be altering them during the extra assignments and they may no longer pass the automated checks after the alterations. 
-
-You can look through the extra assignments and pick any you would like. The order does not really matter. The assignments do not have as detailed instructions as you have previously seen and will require you to think about what you want to achieve and find solutions yourself. Which is what coding is all about!
+If you are still eager to learn more and improve you app, here are some assignments to improve the app. You can look through the extra assignments and pick any you would like. The order does not really matter. The assignments do not have as detailed instructions as you have previously seen and will require you to think about what you want to achieve and find solutions yourself. Which is what coding is all about!
 
 ## Small assignments
 - **Change the chart type to bar chart.** Look at Chart.js documentation for [bar chart](https://www.chartjs.org/docs/latest/charts/bar.html){:target="_blank"}. Switch your chart to be a bar chart instead of a line chart. Hint: this can be done by changing only one line in your code.
